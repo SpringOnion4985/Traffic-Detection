@@ -1,0 +1,42 @@
+{
+  "os":  "Windows-10-10.0.22631-SP0",
+  "python":  "3.10.9",
+  "startedAt":  "2024-11-27T22:29:37.149346Z",
+  "program":  "c:\\Users\\LENOVO\\Desktop\\Vehicle-Detection\\train.py",
+  "codePath":  "train.py",
+  "git":  {
+    "remote":  "https://github.com/MaryamBoneh/Vehicle-Detection.git",
+    "commit":  "fc9278a56cbe880a2c698eb5d1e72e6251e47e45"
+  },
+  "root":  "C:\\Users\\LENOVO\\Desktop\\Vehicle-Detection",
+  "host":  "Going-merry",
+  "username":  "LENOVO",
+  "executable":  "C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+  "codePathLocal":  "train.py",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "gpu":  "NVIDIA GeForce GTX 1650",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "509722226688",
+      "used":  "458727407616"
+    }
+  },
+  "memory":  {
+    "total":  "8362713088"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce GTX 1650",
+      "memoryTotal":  "4294967296",
+      "cudaCores":  896,
+      "architecture":  "Turing"
+    }
+  ],
+  "cudaVersion":  "12.7"
+}

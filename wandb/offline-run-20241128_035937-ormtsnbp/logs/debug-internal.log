@@ -1,0 +1,15 @@
+{"time":"2024-11-28T03:59:41.7885729+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-28T03:59:41.7890768+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\LENOVO\\Desktop\\Vehicle-Detection\\wandb\\offline-run-20241128_035937-ormtsnbp\\logs\\debug-core.log"}
+{"time":"2024-11-28T03:59:42.4215786+05:30","level":"INFO","msg":"created new stream","id":"ormtsnbp"}
+{"time":"2024-11-28T03:59:42.422081+05:30","level":"INFO","msg":"stream: started","id":"ormtsnbp"}
+{"time":"2024-11-28T03:59:42.422081+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ormtsnbp"}
+{"time":"2024-11-28T03:59:42.422081+05:30","level":"INFO","msg":"handler: started","stream_id":"ormtsnbp"}
+{"time":"2024-11-28T03:59:42.422081+05:30","level":"INFO","msg":"sender: started","stream_id":"ormtsnbp"}
+{"time":"2024-11-28T03:59:42.44783+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-28T03:59:50.8969967+05:30","level":"INFO","msg":"stream: closing","id":"ormtsnbp"}
+{"time":"2024-11-28T03:59:50.9058216+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-28T03:59:50.9133916+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-28T03:59:50.9153993+05:30","level":"INFO","msg":"handler: closed","stream_id":"ormtsnbp"}
+{"time":"2024-11-28T03:59:50.9153993+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ormtsnbp"}
+{"time":"2024-11-28T03:59:50.9153993+05:30","level":"INFO","msg":"sender: closed","stream_id":"ormtsnbp"}
+{"time":"2024-11-28T03:59:50.9345253+05:30","level":"INFO","msg":"stream: closed","id":"ormtsnbp"}
